@@ -1,3 +1,3 @@
 # Musaj
 
-Ecommerce App
+IOS Ecommerce App using Swift
